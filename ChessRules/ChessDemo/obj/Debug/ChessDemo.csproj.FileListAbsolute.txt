@@ -1,0 +1,27 @@
+D:\ChessRules\ChessDemo\bin\Debug\ChessDemo.exe
+D:\ChessRules\ChessDemo\bin\Debug\ChessDemo.pdb
+D:\ChessRules\ChessDemo\bin\Debug\ChessRules.dll
+D:\ChessRules\ChessDemo\bin\Debug\ChessRules.pdb
+D:\ChessRules\ChessDemo\obj\Debug\ChessDemo.csprojAssemblyReference.cache
+D:\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CoreCompileInputs.cache
+D:\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CopyComplete
+D:\ChessRules\ChessDemo\obj\Debug\ChessDemo.exe
+D:\ChessRules\ChessDemo\obj\Debug\ChessDemo.pdb
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\bin\Debug\ChessDemo.exe
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\bin\Debug\ChessDemo.pdb
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\bin\Debug\ChessRules.dll
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\bin\Debug\ChessRules.pdb
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\obj\Debug\ChessDemo.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CopyComplete
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\obj\Debug\ChessDemo.exe
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessDemo\obj\Debug\ChessDemo.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\bin\Debug\ChessDemo.exe
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\bin\Debug\ChessDemo.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\bin\Debug\ChessRules.dll
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\bin\Debug\ChessRules.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CopyComplete
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.exe
+C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.pdb

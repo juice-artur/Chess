@@ -1,0 +1,12 @@
+D:\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+D:\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+D:\ChessRules\ChessRules\obj\Debug\ChessRules.csprojAssemblyReference.cache
+D:\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+D:\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+D:\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessRules\bin\Debug\ChessRules.dll
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessRules\bin\Debug\ChessRules.pdb
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessRules\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessRules\obj\Debug\ChessRules.dll
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessRules\obj\Debug\ChessRules.pdb
+C:\Users\Leo\Desktop\kyrsach\ChessRules\ChessRules\obj\Debug\ChessRules.csprojAssemblyReference.cache
