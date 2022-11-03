@@ -1,5 +1,5 @@
 # DLL Library with Chess Rules
-## Uage
+## Usage
 - Create new instanse
 ``` CS
     Chess chess = new Chess();
