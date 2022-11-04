@@ -1,4 +1,11 @@
 # DLL Library with Chess Rules
+
+This library is engaged in search and check of the strength of available moves at a certain moment of the game
+
+## Example
+
+![Comsole output](./assets/example.png)
+
 ## Usage
 - Create new instanse
 ``` CS

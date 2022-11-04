@@ -25,3 +25,12 @@ C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDe
 C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CopyComplete
 C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.exe
 C:\Users\Admin\Downloads\Telegram Desktop\ChessRules\ChessDemo\obj\Debug\ChessDemo.pdb
+D:\JustCode\Chess\ChessRules\ChessDemo\bin\Debug\ChessDemo.exe
+D:\JustCode\Chess\ChessRules\ChessDemo\bin\Debug\ChessDemo.pdb
+D:\JustCode\Chess\ChessRules\ChessDemo\bin\Debug\ChessRules.dll
+D:\JustCode\Chess\ChessRules\ChessDemo\bin\Debug\ChessRules.pdb
+D:\JustCode\Chess\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.AssemblyReference.cache
+D:\JustCode\Chess\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CoreCompileInputs.cache
+D:\JustCode\Chess\ChessRules\ChessDemo\obj\Debug\ChessDemo.csproj.CopyComplete
+D:\JustCode\Chess\ChessRules\ChessDemo\obj\Debug\ChessDemo.exe
+D:\JustCode\Chess\ChessRules\ChessDemo\obj\Debug\ChessDemo.pdb
